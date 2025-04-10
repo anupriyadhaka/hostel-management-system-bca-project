@@ -15,7 +15,7 @@ The **Hostel Management System** is a software application designed to automate 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hostel-management-system.git
+   git clone https://github.com/anupriyadhaka/hostel-management-system-bca-project.git
 
 
 2. Set up the database using the schema provided:
