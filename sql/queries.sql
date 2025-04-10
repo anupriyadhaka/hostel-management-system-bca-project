@@ -1,4 +1,4 @@
--- Example SELECT query
+-- Example of SELECT query
 SELECT s.name AS student_name, r.room_number, h.name AS hostel_name
 FROM student s
 JOIN allotments a ON s.student_id = a.student_id
