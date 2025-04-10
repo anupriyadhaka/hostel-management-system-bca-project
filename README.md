@@ -1,7 +1,7 @@
 
 # Hostel Management System by Anupriya Dhaka (23BCA10808)
 
-## Overview
+## Overview 
 The **Hostel Management System** is a project designed to automate and manage hostel operations like room allotments, payments, complaints, inventory tracking, and visitor logs. The system is built using SQL for database management and aims to replace manual operations with a digital platform.
 
 ## Features:
@@ -18,7 +18,7 @@ The **Hostel Management System** is a project designed to automate and manage ho
    git clone https://github.com/anupriyadhaka/hostel-management-system-bca-project.git
 
 
-2. Set up the database using the schema provided:
+2. Set up the database using the schema provided in files:
 
    - Import the schema from `sql/schema.sql` to create the necessary tables.
 
