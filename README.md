@@ -2,7 +2,7 @@
 # Hostel Management System by Anupriya Dhaka (23BCA10808)
 
 ## Overview
-The **Hostel Management System** is a software application designed to automate and manage hostel operations like room allotments, payments, complaints, inventory tracking, and visitor logs. The system is built using SQL for database management and aims to replace manual operations with a digital platform.
+The **Hostel Management System** is a project designed to automate and manage hostel operations like room allotments, payments, complaints, inventory tracking, and visitor logs. The system is built using SQL for database management and aims to replace manual operations with a digital platform.
 
 ## Features:
 - Room allotment management
